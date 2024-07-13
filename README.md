@@ -11,7 +11,15 @@ A function to have precise control of the time and distance of a smooth scroll. 
 Live example:
 
 
+https://github.com/user-attachments/assets/e1b8d72c-182f-487f-92c8-b142c3b6d554
+
+
+
 Same time, longer distance:
+
+
+https://github.com/user-attachments/assets/e8ccc631-2d7d-454d-8817-cb314179a45d
+
 
 
 ## Parameters of scrollSmooth()
